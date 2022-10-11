@@ -6,6 +6,10 @@
 
 Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers.
 
+## SmartIDE Start
+
+[Open in SmartIDE](https://dev.smartide.cn/#git@github.com:ups216/eShopOnContainers.git)
+
 ## SPA Application (Angular)
 
 ![](img/eshop-spa-app-home.png)
